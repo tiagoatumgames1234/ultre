@@ -14,3 +14,6 @@ if u alr have it
 git remote add origin https://github.com/tiagoatumgames1234/ultre.git
 git branch -M main
 git push -u origin main
+
+#this bot was coded im replit since my old pc cannot run this type of files thats why i work on replit 
+i have been using co-pilot any code changes u guys wanna do i would read all the code and check if it can make any errors
